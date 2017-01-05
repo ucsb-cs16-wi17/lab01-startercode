@@ -1,5 +1,5 @@
 // countDucks.cpp 
-// P. Conrad for CS16 lab01 Winter 2015
+// P. Conrad for CS16, Winter 2015
 // Example program to read from file and count occurences
 
 #include <iostream> // for printf()
