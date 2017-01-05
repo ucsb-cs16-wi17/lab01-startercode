@@ -1,5 +1,5 @@
 // sample01.cpp
-// by P. Conrad for CS16 lab01, Winter 2015
+// by P. Conrad for CS16, Winter 2015
 #include <iostream>
 using namespace std;
  
